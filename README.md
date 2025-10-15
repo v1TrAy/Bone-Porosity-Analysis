@@ -41,12 +41,7 @@ The objective is to extract and quantify the porosity percentage in bone tissue 
 
 ## Installation
 
-1. Clone the repository:
-
-git clone https://github.com/yourusername/bone-porosity-analysis.git
-cd bone-porosity-analysis
-
-2. Install required packages:
+1. Install required packages:
 
 pip install opencv-python numpy matplotlib
 
